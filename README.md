@@ -1,4 +1,4 @@
-[![MasterHead](https://siberci.com/wp-content/uploads/2021/01/programlama-dili-2021.png)
+![MasterHead](https://siberci.com/wp-content/uploads/2021/01/programlama-dili-2021.png)
 <h1 align="center">Hi 👋, I'm Hasan Saygılı</h1>
 <h3 align="center">Computer Engineering Student at Akdeniz University</h3>
 
