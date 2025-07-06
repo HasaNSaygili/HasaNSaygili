@@ -2,9 +2,9 @@
 <h3 align="center">Computer Engineering Student at Akdeniz University</h3>
 
 - 🎓 I'm currently studying **Computer Engineering** at Akdeniz University.  
-- 💻 I’m learning and building projects in **Python, Java, and Front-End Web Development**.  
+- 💻 I’m learning and building projects in **Python**.  
 - 🤖 I'm also exploring the fields of **Artificial Intelligence, Data Science, and Machine Learning**.  
-- 🌱 My current focus is on combining **AI + Web Technologies** for intelligent systems.  
+- 🌱 My current focus is on combining **AI + Mobile Technologies** for intelligent systems.  
 - 📫 How to reach me: **hasansaygili108@gmail.com**
 
 ---
